@@ -3,7 +3,13 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.seuapp.bundleid",
+        "appID": "LJBJWP87WU.com.soyandmochi.dev",
+        "paths": [
+          "/mood-items-packs/*"
+        ]
+      },
+      {
+        "appID": "LJBJWP87WU.com.soyandmochi",
         "paths": [
           "/mood-items-packs/*"
         ]
