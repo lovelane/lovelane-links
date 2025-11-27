@@ -13,6 +13,18 @@
         "paths": [
           "/mood-items-packs/*"
         ]
+      },
+      {
+        "appID": "LJBJWP87WU.com.soyandmochi.dev",
+        "paths": [
+          "/new-in-app-notifications/*"
+        ]
+      },
+      {
+        "appID": "LJBJWP87WU.com.soyandmochi",
+        "paths": [
+          "/new-in-app-notifications/*"
+        ]
       }
     ]
   }
