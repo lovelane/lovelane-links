@@ -5,6 +5,18 @@
       {
         "appID": "LJBJWP87WU.com.soyandmochi.dev",
         "paths": [
+          "/*"
+        ]
+      },
+      {
+        "appID": "LJBJWP87WU.com.soyandmochi",
+        "paths": [
+          "/*"
+        ]
+      },
+      {
+        "appID": "LJBJWP87WU.com.soyandmochi.dev",
+        "paths": [
           "/mood-items-packs/*"
         ]
       },
